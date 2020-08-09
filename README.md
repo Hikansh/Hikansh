@@ -1,4 +1,4 @@
-### Hi there, I'm Hikansh Kapoor - [Find-Hikansh][website] 👋
+### Hi there, I'm Hikansh Kapoor 👋 - [Find Me Here][website]
 
 ## I'm a Developer, Programmer and a Tutor!
 
