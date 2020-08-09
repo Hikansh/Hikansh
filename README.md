@@ -42,7 +42,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikansh)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikansh)
 
 [website]: https://find-hikansh.web.app/
 [twitter]: https://www.facebook.com/hikanshk11
