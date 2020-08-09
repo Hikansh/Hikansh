@@ -43,11 +43,6 @@
 
 <img align="left" alt="Hikansh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Hikansh&show_icons=true&hide_border=true&hide=contribs" />
 
-<br />
-<br />
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikansh)
 
 [website]: https://find-hikansh.web.app/
