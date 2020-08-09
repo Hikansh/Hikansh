@@ -1,4 +1,4 @@
-### Hi there, I'm Hikansh Kapoor - [<img alt="find-hikansh.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 👋
+### Hi there, I'm Hikansh Kapoor - [Find-Hikansh][website] 👋
 
 ## I'm a Developer, Programmer and a Tutor!
 
