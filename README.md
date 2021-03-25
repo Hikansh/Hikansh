@@ -4,7 +4,7 @@
 
 - 📜 I’m currently studying at RMIT University, Melbourne !
 - ⚡ I’m looking to collaborate with other students / tutors.
-- 💻 2020 Goals: Upgrade my skills to the next level.
+- 💻 2021 Goals: Upgrade my skills to the next level.
 - ♚ Fun fact: I love to play Chess, Although I'm not so pro 🤣
 
 ### Connect with me:
