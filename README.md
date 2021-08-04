@@ -3,7 +3,7 @@
 ## I'm a Developer, Programmer and a Tutor!
 
 - 📜 Completed my Masters from RMIT University, Melbourne !
-- ⚡ Currently working at Lend[lend].
+- ⚡ Currently working at [Lend][lend].
 - 💻 2021 Goals: Upgrade my skills to the next level.
 - ♚ Fun fact: I love to play Chess and other Games.
 
