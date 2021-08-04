@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Programmer and a Tutor!
 
-- 📜 I’m currently studying at RMIT University, Melbourne !
-- ⚡ I’m looking to collaborate with other students / tutors.
+- 📜 Completed my Masters from RMIT University, Melbourne !
+- ⚡ Currently working at [lend].
 - 💻 2021 Goals: Upgrade my skills to the next level.
-- ♚ Fun fact: I love to play Chess, Although I'm not so pro 🤣
+- ♚ Fun fact: I love to play Chess and other Games.
 
 ### Connect with me:
 
@@ -50,3 +50,4 @@
 [twitter]: https://www.facebook.com/hikanshk11
 [instagram]: https://www.instagram.com/hikansh_kapoor/?hl=en
 [linkedin]: https://www.linkedin.com/in/hikansh-kapoor-203a70145/?originalSubdomain=in
+[lend]: https://www.lend.com.au/
