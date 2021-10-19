@@ -3,7 +3,7 @@
 ## I'm a Developer, Programmer and a Tutor!
 
 - 📜 Completed my Masters from RMIT University, Melbourne !
-- ⚡ Currently working at [Lend][lend].
+- ⚡ Currently working at [Eagle][eagle].
 - 💻 2021 Goals: Upgrade my skills to the next level.
 - ♚ Fun fact: I love to play Chess and other Games.
 
@@ -50,4 +50,4 @@
 [twitter]: https://www.facebook.com/hikanshk11
 [instagram]: https://www.instagram.com/hikansh_kapoor/?hl=en
 [linkedin]: https://www.linkedin.com/in/hikansh-kapoor-203a70145/?originalSubdomain=in
-[lend]: https://www.lend.com.au/
+[eagle]: https://www.geteagle.com.au/
