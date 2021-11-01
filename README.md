@@ -1,8 +1,8 @@
 ## Hi there, I'm Hikansh Kapoor 👋 - [Find Me Here][website]
 
-## I'm a Developer, Programmer and a Tutor!
+## I'm a web developer and a programmer
 
-- 📜 Completed my Masters from RMIT University, Melbourne !
+- 📜 Completed my Masters from RMIT University, Melbourne
 - ⚡ Currently working at [Eagle][eagle].
 - 💻 2021 Goals: Upgrade my skills to the next level.
 - ♚ Fun fact: I love to play Chess and other Games.
