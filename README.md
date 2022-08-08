@@ -4,8 +4,7 @@
 
 - 📜 Completed my Masters from RMIT University, Melbourne
 - ⚡ Currently working at [Eagle][eagle].
-- 💻 2021 Goals: Upgrade my skills to the next level.
-- ♚ Fun fact: I love to play Chess and other Games.
+- ♚ Fun fact: I love to play Chess and some other Games.
 
 ### Connect with me:
 
