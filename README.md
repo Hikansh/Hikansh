@@ -9,8 +9,8 @@
 ### Connect with me:
 
 [<img align="left" alt="find-hikansh.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hikansh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
 [<img align="left" alt="Hikansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hikansh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
 [<img align="left" alt="Hikansh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -48,5 +48,5 @@
 [website]: https://find-hikansh.web.app/
 [twitter]: https://www.facebook.com/hikanshk11
 [instagram]: https://www.instagram.com/hikansh_kapoor/?hl=en
-[linkedin]: https://www.linkedin.com/in/hikansh-kapoor-203a70145/?originalSubdomain=in
+[linkedin]: www.linkedin.com/in/hikansh-kapoor
 [eagle]: https://www.geteagle.com.au/
