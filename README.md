@@ -1,6 +1,6 @@
 ## Hi there, I'm Hikansh Kapoor 👋
 
-## I'm a software developer
+## I'm a Software Developer
 
 - 📜 Completed my Masters from RMIT University, Melbourne
 - ⚡ Currently working at [Eagle][eagle].
