@@ -1,6 +1,6 @@
-## Hi there, I'm Hikansh Kapoor 👋 - [Find Me Here][website]
+## Hi there, I'm Hikansh Kapoor 👋
 
-## I'm a web developer and a programmer
+## I'm a software developer
 
 - 📜 Completed my Masters from RMIT University, Melbourne
 - ⚡ Currently working at [Eagle][eagle].
